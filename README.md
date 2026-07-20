@@ -6,7 +6,7 @@ The RFR2 is a device that can switch from being an ordinary radio, to being a Bl
 
 With accesible parts at its core, and most of the wiring job being handled by a PCB, this project is very easy to understand, then assemble.
 
-<img src="images/project/main_body.jpg" alt="main_body">
+<img src="Images/Project/main_body.jpg" alt="main_body">
 
 ## Why?
 
@@ -18,7 +18,7 @@ Well, I wanted to make something original, and then I was thinking about getting
 
   Features:
 
-<img src="images/project/wiring_diagram.png" alt="wiring_diagram">
+<img src="Images/Project/wiring_diagram.png" alt="wiring_diagram">
 
   - Most of the components communicate via I2C. This being the case, volume and channel can be changed using rotary encoders, rather than classic potentiometers.
   - A pin on the microcontroller (Raspberry Pi Pico) detects if there is current flow between the radio module and the 3.3V line. If so, the Pico knows to display "radio mode". If not, it will display "BT mode"
@@ -29,7 +29,7 @@ Well, I wanted to make something original, and then I was thinking about getting
   - STATUS LED!!!
   - Heated inserts, no screws on bare plastic
   
-  <img src="images/project/pcb.png" alt="pcb">
+  <img src="Images/Project/pcb.png" alt="pcb">
 
 ### Case
 
