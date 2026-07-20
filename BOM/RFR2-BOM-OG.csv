@@ -1,0 +1,22 @@
+Item,Description,Link,Qty,Price per unit,Total price w/o shipping,Shipping,Total
+PCB,PCB,-,5,,4.54 ?,8.88 ?,13.42 ?
+M4 bolts,M4 bolts,already owned,8,already owned,0.00 ?,0.00 ?,0.00 ?
+M4 nuts,M4 nuts,already owned,8,already owned,0.00 ?,,
+M3 bolts,M3 bolts,already owned,8,already owned,0.00 ?,,
+M3 nuts,M3 nuts,already owned,8,already owned,0.00 ?,,
+SMD2835-6500K,SMD LED,https://electronicmarket.ro/2835-smd-led-6000-6500k-alb?gad_source=1&gad_campaignid=21513542058&gbraid=0AAAAA-D1O9Z2KXrM8jS931hq9EL83sPFJ&gclid=Cj0KCQjw-pHPBhCdARIsAHXYWP_1JeyVaks436fD8OcetfT-7PHea8UyYtYJ8BzN7zg7yd09QDPxtFgaAkwxEALw_wcB,1,0.06 ?,0.06 ?,2.26 ?,2.69 ?
+SPDT Slide Switch,ON-ON Slide Switch,https://electronicmarket.ro/en-gb/mini-spdt-slide-switch-on-on-3-pin?search=Switch,1,0.11 ?,0.11 ?,,
+SS12D00,Mini On-Off Slide Switch,https://electronicmarket.ro/en-gb/switches-and-buttons/slide-switch/ss12d00-mini-on-off-slide-switch,1,0.26 ?,0.26 ?,,
+"0.90"" OLED Display",Display,https://sigmanortec.ro/display-oled-096-i2c-iic-alb?SubmitCurrency=1&id_currency=3,1,3.71 ?,3.71 ?,2.96 ?,10.84 ?
+433MHz helical antenna,antenna,https://sigmanortec.ro/en/433mhz-helical-antenna,1,0.60 ?,0.60 ?,,
+AMS1117 3.3V,Voltage regulator,https://sigmanortec.ro/Modul-coborator-tensiune-AMS1117-3-3V-p134573098?SubmitCurrency=1&id_currency=3,1,0.73 ?,0.73 ?,,
+TP4056,USB-C charger,https://sigmanortec.ro/modul-incarcare-baterie-litiu-tp4056-typec-5v-1a-cu-protectie,1,0.93 ?,0.93 ?,,
+18650 Battery holder,Battery holder,https://sigmanortec.ro/Suport-baterie-18650-p158825500,1,1.91 ?,1.91 ?,,
+TPA2016D2,Digital Amplifier,https://www.aliexpress.com/item/1005007771780893.html?spm=a2g0o.productlist.main.1.1388WFE4WFE4Bm&algo_pvid=e4d26b52-9606-43dc-8250-c23014e96432&algo_exp_id=e4d26b52-9606-43dc-8250-c23014e96432-0&pdp_ext_f=%7B%22order%22%3A%2235%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21RON%2153.65%2153.65%21%21%2112.06%2112.06%21%40211b617b17774791883722573e4de4%2112000042149628474%21sea%21RO%214338401437%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aab527837%3Bm03_new_user%3A-29895&curPageLogUid=89HHeY0mkhnZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007771780893%7C_p_origin_prod%3A,1,10.88 ?,10.88 ?,6.63 ?,24.82 ?
+18650 Cell,Battery,https://www.aliexpress.com/item/32793701336.html?spm=a2g0o.productlist.main.1.48a3184fd8KZS5&algo_pvid=00aa3b3f-57ad-4e47-b5c8-92639a2236e0&algo_exp_id=00aa3b3f-57ad-4e47-b5c8-92639a2236e0-0&pdp_ext_f=%7B%22order%22%3A%2223359%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2143.38%2139.52%21%21%2148.46%2144.15%21%40210398e917845014974487700e0ea5%2112000053301585582%21sea%21RO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aab527837%3Bm03_new_user%3A-29895&curPageLogUid=190jBEObcvpL&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32793701336%7C_p_origin_prod%3A,1,7.31 ?,7.31 ?,,
+M4x6x4 heated inserts,Heated inserts,https://www.drot.ro/platforma-arduino/231181-inserts-filetate-m4x6x6-din-alama.html?cv,8,0.17 ?,1.36 ?,3.81 ?,6.53 ?
+M3x6x4 heated inserts,Heated inserts,https://www.drot.ro/platforma-arduino/231208-inserts-filetate-m3x6x4-din-alama.html?cv,8,0.17 ?,1.36 ?,,
+JDY-62A,Bluetooth module,https://www.optimusdigital.ro/ro/wireless-bluetooth/12433-modul-pentru-transmisie-audio-fara-fir-ble-stereo-jdy-62a.html,1,2.80 ?,2.80 ?,2.00 ?,6.60 ?
+RDA5807,RF Radio Module,https://www.optimusdigital.ro/ro/wireless-radio-fm/745-modul-radio-fm-rda5807m.html?srsltid=AfmBOooLRyTUZa3x3IrgBiQJtpdNmcl8UkR8Xkw7ODdx6JqKyL7N7ozU],1,1.80 ?,1.80 ?,,
+Visaton FR 58,Speaker,https://www.thomann.ro/visaton_fr_58.htm,2,8.22 ?,16.44 ?,9.35 ?,25.79 ?
+Grand Total,,,,,54.80 ?,35.89 ?,90.69 ?
