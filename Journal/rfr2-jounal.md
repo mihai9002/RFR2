@@ -1,8 +1,8 @@
 # RFR2- Radio Frequency Receiver 2 — Journal Export
 
-- Exported at: 2026-07-18T14:21:13Z
+- Exported at: 2026-07-20T20:59:02Z
 - Project ID: 673
-- Entries: 15
+- Entries: 16
 
 ## Entry 1
 - ID: 387
@@ -389,3 +389,19 @@ Here's a render of the final product:
 - https://public.lapse-hackclub.link/timelapses/XqNseBr7tUAg/timelapse-XqNseBr7tUAg.mp4
 - https://public.lapse-hackclub.link/timelapses/RL0GZHAzuqBp/timelapse-RL0GZHAzuqBp.mp4
 - https://lookout.hackclub.com/api/media/6ccce00b-6e24-4914-83f7-94a3ef04500d/video.mp4
+
+## Entry 16
+- ID: 16745
+- Author: mihai.a.ghetu
+- Created At: 2026-07-20T20:34:23Z
+
+### Content
+
+This is basically just the making of the BOM in 2 separate timelapses, plus writing this journal. Also, I had to change something on the PCB. A while ago, I thought that, for the voltage step-down thing, it would be better to just get an IC and add the other components, instead of buying the whole module. I ultimately went for the second option, since it was not only cheaper and easier, it was also guaranteed to work. After finishing the BOM, I took pictures of the checkouts, and made a big organized folder, with all the stuff that would end up on GitHub. I just have to export the finalized journal, export the BOM, look over the README again and I am ready to submit! I will be doing these last few things off camera, since I have to include this recording in the journal.
+![cBS1YqheXJ1rhOgWfBbTkjmEYBWXLj4KehT2F-kBDkU.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE3NjQsInB1ciI6ImJsb2JfaWQifX0=--418b1d0fc773ab643d20857b8872eed158081b9c/cBS1YqheXJ1rhOgWfBbTkjmEYBWXLj4KehT2F-kBDkU.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/93c5a108-901d-4e5e-b8a0-e321726f661c/video.mp4
+- https://lookout.hackclub.com/api/media/1cb9a83c-2ac3-417e-88fb-2d9a21ba8471/video.mp4
